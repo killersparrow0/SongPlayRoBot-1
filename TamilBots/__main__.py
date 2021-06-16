@@ -15,7 +15,7 @@ WELCOMEʕ•́ᴥ•̀ʔっ ! [{}](tg://user?id={}),
 
 I'M Music Bot By @BillieMusicRobot 🤖
 
-Send the name of the song you wan... 🥰🤗🥰
+Send the name of the song you want... (👍≖‿‿≖)👍 👍(≖‿‿≖👍)
 
 E.g. :- ```/song lovely```
 """
